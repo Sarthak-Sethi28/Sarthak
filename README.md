@@ -4,49 +4,117 @@
 
 ### AI & Software Engineer · Computer Science @ University of Waterloo
 
-I build production AI systems and full-stack products — from realtime voice and agent workflows to backend infrastructure and polished user experiences.
+Building AI-powered products, full-stack systems, and production software from idea to deployment.
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-sethisarthak.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://sethisarthak.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-Sarthak--Sethi28-181717?style=for-the-badge&logo=github)](https://github.com/Sarthak-Sethi28)
 
 </div>
 
 ---
 
-## What I build
+## About
 
-- **AI systems** — agents, LLM workflows, realtime voice, structured evaluation, retrieval and automation
-- **Full-stack products** — React, TypeScript, APIs, PostgreSQL and product-facing workflows
-- **Backend & infrastructure** — Temporal, WebSockets, Supabase, Docker, Azure and deployment pipelines
-- **Product engineering** — taking ideas from ambiguous requirements to shipped software used by real teams
+I’m a Computer Science student at the **University of Waterloo** focused on building production-grade AI and software systems.
 
-## Selected work
+My work sits across **AI engineering, backend systems, full-stack product development, infrastructure, and product execution**. I enjoy taking ambiguous ideas, designing the system behind them, and shipping something people can actually use.
 
-| Project | What it is | Stack / Focus |
-| --- | --- | --- |
-| [**Semantic Guardian**](https://github.com/Sarthak-Sethi28/semantic-guardian) | Reviews data pipeline changes against approved semantics, flags breaking changes and traces downstream ML blast radius. | Python · Data systems · AI-assisted review |
-| [**Danier Chatbot**](https://github.com/Sarthak-Sethi28/Danier-Chatbot) | OpenAI-powered shopping assistant with contextual product search and dynamic filtering for a Shopify experience. | React · Tailwind · OpenAI · Express |
-| [**CaRaksha**](https://github.com/Sarthak-Sethi28/CaRaksha) | Portable road-safety system for distracted driving, overspeeding, alcohol detection and emergency response. | Raspberry Pi · Arduino · Computer Vision · GPS |
-| [**iMoney**](https://github.com/Sarthak-Sethi28/iMoney) | Assistive currency-identification device designed to recognize Indian banknotes and announce totals through audio. | C++ · Raspberry Pi · Hardware |
+**Current interests:** agentic AI · realtime systems · developer tools · data systems · product engineering
 
-> More of my work, case studies and current projects: **[sethisarthak.com](https://sethisarthak.com)**
+---
 
-## Stack
+## Featured work
 
-**Languages**  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Semantic Guardian](https://github.com/Sarthak-Sethi28/semantic-guardian)
+
+AI-assisted data governance and semantic protection system that reviews pipeline changes, detects breaking changes, and traces downstream impact.
+
+`Python` `Data Systems` `AI` `Validation`
+
+</td>
+<td width="50%" valign="top">
+
+### [DANIER Alert System](https://github.com/Sarthak-Sethi28/DANIER-S-ALERT-SYSTEM-)
+
+Operational monitoring and alerting system built around production workflows, automated processing, notifications, and reliability.
+
+`Python` `Automation` `Backend` `Production Systems`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Danier Chatbot](https://github.com/Sarthak-Sethi28/Danier-Chatbot)
+
+OpenAI-powered shopping assistant with contextual product search and dynamic filtering for a Shopify experience.
+
+`React` `OpenAI` `Express` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+### [React DataTable](https://github.com/Sarthak-Sethi28/React-datatable)
+
+Reusable advanced data-table component with filtering, sorting, and visualization-focused UX.
+
+`React` `TypeScript` `Frontend Systems`
+
+</td>
+</tr>
+</table>
+
+### More projects
+
+[**CaRaksha**](https://github.com/Sarthak-Sethi28/CaRaksha) · road-safety and emergency-response system  
+[**iMoney**](https://github.com/Sarthak-Sethi28/iMoney) · assistive currency-identification device  
+[**Waterloo Chatbot**](https://github.com/Sarthak-Sethi28/Chatbot-University-of-Waterloo) · conversational assistant for university resources
+
+> For product demos, case studies, and current work → **[sethisarthak.com](https://sethisarthak.com)**
+
+---
+
+## What I work with
+
+**AI & Systems**  
+Azure OpenAI · OpenAI · LLM agents · realtime voice · WebSockets · Temporal · retrieval · structured evaluation
+
+**Product Engineering**  
+React · TypeScript · JavaScript · Vite · Tailwind CSS · Node.js · REST APIs
+
+**Backend & Data**  
+Python · PostgreSQL · Supabase · SQL · event-driven workflows
+
+**Infrastructure**  
+Docker · Azure · GitHub Actions · deployment pipelines · production debugging
+
+**Core Languages**  
 TypeScript · JavaScript · Python · C · C++ · SQL
 
-**AI & Backend**  
-OpenAI / Azure OpenAI · LLM Agents · Realtime Voice · Temporal · WebSockets · Supabase · PostgreSQL
+---
 
-**Frontend & Infrastructure**  
-React · Vite · Tailwind CSS · Docker · Azure · GitHub Actions
+## Engineering focus
+
+```text
+AI systems          ████████████████████
+Full-stack product  ██████████████████░░
+Backend systems     ██████████████████░░
+Infrastructure      ███████████████░░░░░
+Product execution   ███████████████████░
+```
 
 ---
 
 <div align="center">
 
-### Building software at the intersection of AI, product and engineering.
+### Build → Deploy → Impact
 
-**[Explore my portfolio →](https://sethisarthak.com)**
+I care about software that survives beyond the demo.
+
+**[Explore my work →](https://sethisarthak.com)**
 
 </div>
